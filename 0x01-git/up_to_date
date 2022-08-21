@@ -1,0 +1,9 @@
+git init
+git clone https://github.com/oracle00999
+git config --global user.name "oracle00999"
+git config --global user.email nwazotachibuike@gmail.com
+git commit -m "my third commit"
+git push 
+git branch
+git checkout
+git pull
